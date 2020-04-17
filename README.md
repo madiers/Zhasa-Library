@@ -16,5 +16,24 @@
 3. Hacking | Хаукинг
 4. Python Ethical Hacking | Хаукинг в пару с Питоном
 5. Electronics (Arduino) | Электроника
+<<<<<<< HEAD
+6. Film-making
+7. Альтер программные книги (хз кароче, сами чекайте)
+И другие
+
+# Programming
+1. Java
+2. C#
+3. JavaScript
+4. Python
+5. Administration
+6. Databases
+7. Git
+8. Web (HTML CSS PHP)
+9. Game Dev
+
+# Досуг
+=======
 6. Film-making (Сценарий)
 7. Film-making (Освещение)
+>>>>>>> parent of 83d9e06... Added books
